@@ -34,4 +34,10 @@ h) Enable Monitoring:
    Enable VPC Flow logs for traffic analysis
    Monitor with Cloudwatch
 
+2) Load Balancers: These are used to manage the traffic for multiple servers/Instances
+
+a) Application Load balancer : To Manage the traffice related to HTTP and HTTPS will use application load balancer
+b) Network Load balancer: To Manage the traffic related to TCP/UDP it will be used
+c) Gateway Load balancer: To Manage the traffic related to third party tools it will be used
+d) Classic load balancer: whiich is a legacy load balancer
 
